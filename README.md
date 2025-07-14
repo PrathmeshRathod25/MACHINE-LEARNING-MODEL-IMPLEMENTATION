@@ -25,3 +25,9 @@ For model building, we chose Logistic Regression because it is effective for bin
 The results showed that the model had high precision and recall, particularly for identifying patients who truly have heart disease. This is crucial in healthcare scenarios where false negatives can have serious consequences. However, some actual disease cases were missed, which suggests that improvements can be made using other algorithms like Random Forest, SVM, or ensemble methods.
 
 In conclusion, this project successfully demonstrates how machine learning can be applied in the healthcare domain to assist in early diagnosis of heart disease. The combination of data preprocessing, logistic regression, and evaluation metrics provides a solid pipeline for binary classification tasks. This model can serve as a foundation for further enhancements and real-world applications where timely prediction is critical.
+
+<img width="1110" height="895" alt="Image" src="https://github.com/user-attachments/assets/4efe88ca-eeeb-42df-959f-8fc171d36040" />
+
+<img width="691" height="330" alt="Image" src="https://github.com/user-attachments/assets/50c479b7-0edf-4caa-80d9-21fa22e3257b" />
+
+<img width="780" height="673" alt="Image" src="https://github.com/user-attachments/assets/ef472fc6-babc-423f-8ef5-06f7d3290944" />
